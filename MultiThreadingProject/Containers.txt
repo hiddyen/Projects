@@ -1,0 +1,21 @@
+Ship 5
+ToxicPowderyCargoMaterial='Copper', Sender=Sender{name='Wojciech', surname='Koc', pesel='64060862431', adress='Dluga'}, SecurityOfContainer='Low', GrossWeight=7.0, NetWeight=3.5, Certificates='none', id=18, WhenAdded=2022-04-23, Toxicity='High Toxicity'}
+ToxicLiquidCargoMaterial='Aluminium ', Sender=Sender{name='Wojciech', surname='Koc', pesel='64060862431', adress='Dluga'}, SecurityOfContainer='None', GrossWeight=14.0, NetWeight=4.56, Certificates='none', id=19, WhenAdded=2022-04-23, Toxicity='High Toxicity', Volume=15}
+RefrigeratedContainerMaterial='Aluminium', kWh=4, Sender=Sender{name='Piotr', surname='Miegoc', pesel='89062175934', adress='Wyszynskiego'}, SecurityOfContainer='High', GrossWeight=20.0, NetWeight=15.3, Certificates='All', id=20, WhenAdded=2022-04-23}
+ExplosiveContainerExplosiveness='low', Sender=Sender{name='Kamil', surname='Slimak', pesel='70010936378', adress='Wojska Polskiego'}, SecurityOfContainer='High', GrossWeight=23.0, NetWeight=20.0, Certificates='none', id=21, WhenAdded=2022-04-23}
+Ship 2
+HeavyContainerMaterial='Steel', Sender=Sender{name='Piotr', surname='Miegoc', pesel='89062175934', adress='Wyszynskiego'}, SecurityOfContainer='None', GrossWeight=11.0, NetWeight=7.0, Certificates='none', id=9, WhenAdded=2022-04-23}
+StandardContainerSender=Sender{name='Piotr', surname='Miegoc', pesel='89062175934', adress='Wyszynskiego'}, SecurityOfContainer='High', GrossWeight=25.0, NetWeight=15.0, Certificates='none', id=8, WhenAdded=2022-04-23}
+LiquidContainerVolume=20, Sender=Sender{name='Wojciech', surname='Koc', pesel='64060862431', adress='Dluga'}, SecurityOfContainer='Medium', GrossWeight=31.0, NetWeight=24.5, Certificates='none', id=10, WhenAdded=2022-04-23}
+Ship 1
+ToxicPowderyCargoMaterial='Copper', Sender=Sender{name='Piotr', surname='Miegoc', pesel='89062175934', adress='Wyszynskiego'}, SecurityOfContainer='Low', GrossWeight=7.0, NetWeight=3.5, Certificates='none', id=4, WhenAdded=2022-04-23, Toxicity='High Toxicity'}
+HeavyContainerMaterial='Steel', Sender=Sender{name='Kamil', surname='Slimak', pesel='70010936378', adress='Wojska Polskiego'}, SecurityOfContainer='None', GrossWeight=11.0, NetWeight=7.0, Certificates='none', id=2, WhenAdded=2022-04-23}
+RefrigeratedContainerMaterial='Aluminium', kWh=4, Sender=Sender{name='Piotr', surname='Miegoc', pesel='89062175934', adress='Wyszynskiego'}, SecurityOfContainer='High', GrossWeight=20.0, NetWeight=15.3, Certificates='All', id=6, WhenAdded=2022-04-23}
+Ship 4
+HeavyContainerMaterial='Steel', Sender=Sender{name='Piotr', surname='Miegoc', pesel='89062175934', adress='Wyszynskiego'}, SecurityOfContainer='None', GrossWeight=11.0, NetWeight=7.0, Certificates='none', id=16, WhenAdded=2022-04-23}
+ToxicLiquidCargoMaterial='Aluminium ', Sender=Sender{name='Wojciech', surname='Koc', pesel='64060862431', adress='Dluga'}, SecurityOfContainer='None', GrossWeight=14.0, NetWeight=4.56, Certificates='none', id=12, WhenAdded=2022-04-23, Toxicity='High Toxicity', Volume=15}
+StandardContainerSender=Sender{name='Piotr', surname='Miegoc', pesel='89062175934', adress='Wyszynskiego'}, SecurityOfContainer='High', GrossWeight=25.0, NetWeight=15.0, Certificates='none', id=15, WhenAdded=2022-04-23}
+LiquidContainerVolume=20, Sender=Sender{name='Wojciech', surname='Koc', pesel='64060862431', adress='Dluga'}, SecurityOfContainer='Medium', GrossWeight=31.0, NetWeight=24.5, Certificates='none', id=17, WhenAdded=2022-04-23}
+Ship 3
+ToxicPowderyCargoMaterial='Copper', Sender=Sender{name='Wojciech', surname='Koc', pesel='64060862431', adress='Dluga'}, SecurityOfContainer='Low', GrossWeight=7.0, NetWeight=3.5, Certificates='none', id=11, WhenAdded=2022-04-23, Toxicity='High Toxicity'}
+RefrigeratedContainerMaterial='Aluminium', kWh=4, Sender=Sender{name='Piotr', surname='Miegoc', pesel='89062175934', adress='Wyszynskiego'}, SecurityOfContainer='High', GrossWeight=20.0, NetWeight=15.3, Certificates='All', id=13, WhenAdded=2022-04-23}

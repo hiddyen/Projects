@@ -1,0 +1,3 @@
+StandardContainerSender=Sender{name='Kamil', surname='Slimak', pesel='70010936378', adress='Wojska Polskiego'}, SecurityOfContainer='High', GrossWeight=25.0, NetWeight=15.0, Certificates='none', id=1, WhenAdded=2022-04-23}
+LiquidContainerVolume=20, Sender=Sender{name='Wojciech', surname='Koc', pesel='64060862431', adress='Dluga'}, SecurityOfContainer='Medium', GrossWeight=31.0, NetWeight=24.5, Certificates='none', id=3, WhenAdded=2022-04-23}
+ExplosiveContainerExplosiveness='low', Sender=Sender{name='Kamil', surname='Slimak', pesel='70010936378', adress='Wojska Polskiego'}, SecurityOfContainer='High', GrossWeight=23.0, NetWeight=20.0, Certificates='none', id=14, WhenAdded=2022-05-01}

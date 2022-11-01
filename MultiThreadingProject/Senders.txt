@@ -1,0 +1,3 @@
+Sender{name='Kamil', surname='Slimak', pesel='70010936378', adress='Wojska Polskiego'}
+Sender{name='Piotr', surname='Miegoc', pesel='89062175934', adress='Wyszynskiego'}
+Sender{name='Wojciech', surname='Koc', pesel='64060862431', adress='Dluga'}
