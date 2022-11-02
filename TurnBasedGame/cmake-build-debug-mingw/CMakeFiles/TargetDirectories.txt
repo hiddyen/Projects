@@ -1,0 +1,3 @@
+C:/Users/liszk/OneDrive - Polsko-Japońska Akademia Technik Komputerowych/uni/PJC/cmake-build-debug-mingw/CMakeFiles/PJC.dir
+C:/Users/liszk/OneDrive - Polsko-Japońska Akademia Technik Komputerowych/uni/PJC/cmake-build-debug-mingw/CMakeFiles/edit_cache.dir
+C:/Users/liszk/OneDrive - Polsko-Japońska Akademia Technik Komputerowych/uni/PJC/cmake-build-debug-mingw/CMakeFiles/rebuild_cache.dir
